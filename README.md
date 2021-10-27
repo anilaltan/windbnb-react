@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Cheesecake Recipe Page</h1>
+<h1 align="center">Small version of Airbnb - Windbnb</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -75,7 +75,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/anilaltan/bnbwind-react/
+$ git clone https://github.com/anilaltan/windbnb-react/
 
 # Install dependencies
 $ npm install
